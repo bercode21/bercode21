@@ -32,12 +32,12 @@
  <!-- PORCENTAJES -->
  <hr>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercoder21&layout=compact&&theme=dark" alt="Top Langs">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bercoder21&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercode21&layout=compact&&theme=dark" alt="Top Langs">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bercode21&theme=dark" alt="Top Langs">
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bercoder21&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bercoder21&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=9745f5&ring=9745f5&fire=ff8c00&currStreakNum=9745f5&sideNums=9745f5&currStreakLabel=9745f5&sideLabels=9745f5&dates=ffffff&theme=dark" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=bercode21&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bercode21&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=9745f5&ring=9745f5&fire=ff8c00&currStreakNum=9745f5&sideNums=9745f5&currStreakLabel=9745f5&sideLabels=9745f5&dates=ffffff&theme=dark" alt="GitHub Streak" width="45%">
 
  
  </p>
