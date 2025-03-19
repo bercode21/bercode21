@@ -10,15 +10,12 @@
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
 
 ## HERRAMIENTAS💻
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -37,17 +34,17 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=bercode21&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bercode21&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=9745f5&ring=9745f5&fire=ff8c00&currStreakNum=9745f5&sideNums=9745f5&currStreakLabel=9745f5&sideLabels=9745f5&dates=ffffff&theme=dark" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/? 
+   user=bercode21&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=9745f5&ring=9745f5&fire=ff8c00&currStreakNum=9745f5&sideNums=9745f5&currStreakLabel=9745f5&sideLabels=9745f5&dates=ffffff&theme=dark" alt="GitHub Streak" width="45%">
 
- 
  </p>
  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raydberg&theme=github-compact)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--> 
-<!--[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)-->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bercode21&theme=github-compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bercode21&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bercode21)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ESTADISTICAS -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&theme=dark) -->
-<!-- ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&&theme=tokyonight)-->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bercode21&show_icons=true&theme=dark)
+ ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=bercode21&&theme=tokyonight)
 
 
 
