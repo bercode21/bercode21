@@ -32,19 +32,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercode21&layout=compact&&theme=dark" alt="Top Langs">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bercode21&theme=dark" alt="Top Langs">
 
-
   <img src="https://github-readme-stats.vercel.app/api?username=bercode21&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/? 
    user=bercode21&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=9745f5&ring=9745f5&fire=ff8c00&currStreakNum=9745f5&sideNums=9745f5&currStreakLabel=9745f5&sideLabels=9745f5&dates=ffffff&theme=dark" alt="GitHub Streak" width="45%">
 
  </p>
- 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bercode21&theme=github-compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bercode21&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bercode21)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ESTADISTICAS -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bercode21&show_icons=true&theme=dark)
- ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=bercode21&&theme=tokyonight)
 
 
 
