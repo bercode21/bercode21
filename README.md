@@ -2,8 +2,11 @@
  ![Banner RayDev](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
 
 💻 Desarrollador Front-End con pasión por transformar ideas en experiencias digitales funcionales y atractivas.
+
 ✨ En el ámbito web, desarrollo interfaces modernas y optimizadas utilizando Angular, React y Next.js, junto con HTML, CSS, JavaScript, Tailwind, Bootstrap y Angular Material.
+
 📱 En el desarrollo móvil, creo aplicaciones multiplataforma con Flutter e Ionic, priorizando el rendimiento y la experiencia del usuario.
+
 🚀 En constante aprendizaje, busco innovar y aportar valor en cada proyecto que desarrollo.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
